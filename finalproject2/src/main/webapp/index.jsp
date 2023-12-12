@@ -7,10 +7,6 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<<<<<<< HEAD
-<body>
-=======
-<body>올려볼게요~
->>>>>>> seongjin
+<body>ㅇㄹㅇㄹㄹㅇㄹㅇ!
 </body>
 </html>
