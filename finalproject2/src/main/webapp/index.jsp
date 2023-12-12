@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>ㅇㅇㅇㅇㅇ! 안녕하세요 seongjin2
+<body>ㅇㅇㅇㅇㅇ! 안녕하세요 seongjin2 이우성!
 <body>
 <body>
 </body>
