@@ -7,6 +7,6 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>올려볼게요~
+<body>
 </body>
 </html>
